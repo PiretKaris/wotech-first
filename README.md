@@ -1,11 +1,11 @@
 Read me file uses mardown syntax to edit any text, formulas or codes.
 
-# Welcome to my repository
+# Welcome to my repository 🐱‍🏍✨
 
 ## My skills
--Java
--Python
--GitHub
+- Java
+- Python
+- GitHub
 
 # My major projects
 1. Java banking app
